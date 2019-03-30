@@ -1,6 +1,6 @@
 A Knight TV (tvcon) for Macos X - Built on 10.13.6
 If you use brew, you might clobber your sdl installation so be aware,
-otherwise tvcon will be go in /usr/local/bin.
+otherwise tvcon will go in /usr/local/bin.
 
 Use something like 'tvcon -2BCS hactrn.org' to have fun
 
